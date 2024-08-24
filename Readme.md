@@ -17,7 +17,6 @@ CS50's Introduction to Programming with Python is a course that provides a compr
 - Web Programming with Flask
 - Testing and Debugging
 
-For more information about the course, you can visit the official course page: 
 
 ## Repository Structure
 
